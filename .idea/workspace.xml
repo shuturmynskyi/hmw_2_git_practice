@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd61c14-3356-481b-baec-ea5143bb3e37" name="Changes" comment="Add HMW_4" />
+    <list default="true" id="abd61c14-3356-481b-baec-ea5143bb3e37" name="Changes" comment="Add HMW_4, with notes">
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/DivideArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/MaxOf20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/TwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,31 +59,39 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2rB3oxego30B84Oh4V51BIgoKXE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CompareNames.executor": "Run",
-    "Application.EvenNumbers.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxOfFour.executor": "Run",
-    "Application.MinOfTwo.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.PrintRectangle.executor": "Run",
-    "Application.PrintRightTriangle.executor": "Run",
-    "Application.PrintStringNTimes.executor": "Run",
-    "Application.SSquare.executor": "Run",
-    "Application.SortOfThree.executor": "Run",
-    "Application.TenNumbers.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cat1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareNames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOfFour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintRightTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStringNTimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736634386069</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add HMW_4, with notes">
+      <option name="closed" value="true" />
+      <created>1736634524831</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736634524831</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +163,7 @@
     <MESSAGE value="Add BaseTest class" />
     <MESSAGE value="Add modified gitignore" />
     <MESSAGE value="Add HMW_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HMW_4" />
+    <MESSAGE value="Add HMW_4, with notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HMW_4, with notes" />
   </component>
 </project>
