@@ -28,4 +28,19 @@ public class MaxOfFour {
             System.out.println("Max of 4 is: " + d);
         }
     }
+//    private static void printMaxOfFour(int a, int b, int c, int d) {
+//        int max = a;
+//        if (b>max) max = b;
+//        if (c>max) max = c;
+//        if (d>max) max = d;
+//        System.out.println("The max is: " + max);
+//    }
+//
+//
+//    private static void printMaxOfFour(int a, int b, int c, int d) {
+//        int max = Math.max(Math.max(a, b), Math.max(c, d));
+//        System.out.println("Max of 4 is: " + max);
+//    }
+
+
 }

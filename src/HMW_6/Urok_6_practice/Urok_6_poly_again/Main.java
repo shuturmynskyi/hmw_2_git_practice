@@ -1,4 +1,4 @@
-package Zaynyattya_6.Urok_6_practice.Urok_6_poly_again;
+package HMW_6.Urok_6_practice.Urok_6_poly_again;
 
 public class Main {
     public static void main(String[] args) {

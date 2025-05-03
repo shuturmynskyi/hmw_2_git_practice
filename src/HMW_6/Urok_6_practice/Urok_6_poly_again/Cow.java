@@ -1,17 +1,17 @@
-package Zaynyattya_6.Urok_6_practice.Urok_6_poly_again;
+package HMW_6.Urok_6_practice.Urok_6_poly_again;
 
 public class Cow {
-    public void printAll(){
+    public void printAll() {
         printColor();
         printName();
     }
 
 
-    public void printColor(){
+    public void printColor() {
         System.out.println("I`m white");
     }
 
-    public void printName(){
+    public void printName() {
         System.out.println("I`m a cow ");
     }
 }

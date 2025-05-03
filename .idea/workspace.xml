@@ -4,67 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd61c14-3356-481b-baec-ea5143bb3e37" name="Changes" comment="Add HMW_5, with notes">
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Cat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Cat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Cat3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Domestic_animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Domestic_animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Domestic_animals/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Horsе_and_Pegas/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Horsе_and_Pegas/Pegas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village/Bull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/abstract_classes/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/abstract_classes/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/mainapp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/ChessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/ChessItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/HasValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_chess_inheritance/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_poly_again/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_poly_again/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_poly_again/Whale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_polymorphism/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_practice/Cat4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_practice/Cat_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Urok_6_practice/Cat_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/AikidoArt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/Attacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/BodyGuard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/BodyGuardGuy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/BoxArts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/Gun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/KarateArt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guard/MartialArts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/robots/Gardener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/robots/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/robots/SecurityRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/robots/WallBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/robots/WorkerRobot.java" afterDir="false" />
+    <list default="true" id="abd61c14-3356-481b-baec-ea5143bb3e37" name="Changes" comment="Add HMW_6">
+      <change afterPath="$PROJECT_DIR$/src/HMW_4/Povtorennya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/Cat7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/CatsFight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_5/TESTCAT7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Domestic_animals_second_time/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Domestic_animals_second_time/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Domestic_animals_second_time/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Encapsulation/Cat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Encapsulation/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Encapsulation/Cat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Horse_and_Pegas_second_time/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Horse_and_Pegas_second_time/Pegas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces_second_time/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces_second_time/Solution_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces_second_time/Solution_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Interfaces_second_time/Solution_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village_second_time/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village_second_time/Bull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village_second_time/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village_second_time/Goat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village_second_time/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/Village_second_time/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/abstract_classes_second_time/Solution_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/abstract_classes_second_time/Solution_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism_second_time/Solution_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism_second_time/Solution_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism_second_time/Solution_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism_second_time/Solution_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HMW_6/polymorphism_second_time/Solution_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marshal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/EvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/MaxOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/MaxOfFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/MinOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/MinOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/PrintRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/PrintRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/PrintRightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/PrintRightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/SSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/SSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/SortOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/SortOfThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_4/TenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_4/TenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_5/Cat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_5/Cat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_5/Cat5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_5/Cat5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_5/DivideArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_5/DivideArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_5/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_5/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HMW_5/TwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HMW_5/TwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +63,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -100,6 +91,9 @@
     &quot;accountId&quot;: &quot;b0dcf141-e1ce-49b6-9d97-e67e9e19d461&quot;
   }
 }</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -114,46 +108,134 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cat.executor": "Run",
-    "Application.Cat1.executor": "Run",
-    "Application.Cat4.executor": "Run",
-    "Application.Cat5.executor": "Run",
-    "Application.Cat_2.executor": "Debug",
-    "Application.ChessGame.executor": "Run",
-    "Application.CompareNames.executor": "Run",
-    "Application.DivideArray.executor": "Run",
-    "Application.EvenNumbers.executor": "Run",
-    "Application.Game.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxOfFour.executor": "Run",
-    "Application.MinOfTwo.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.PrintRectangle.executor": "Run",
-    "Application.PrintRightTriangle.executor": "Run",
-    "Application.PrintStringNTimes.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.SSquare.executor": "Run",
-    "Application.Solution1.executor": "Run",
-    "Application.Solution2.executor": "Run",
-    "Application.Solution3.executor": "Run",
-    "Application.Solution4.executor": "Run",
-    "Application.Solution5.executor": "Run",
-    "Application.SortOfThree.executor": "Run",
-    "Application.TenNumbers.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TwoArrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimalTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CatsFight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChessGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareNames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HMW_6.abstract_classes_second_time.Solution_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOfFour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Povtorennya.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintRightTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStringNTimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TESTCAT7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCat6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="guard" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.HMW_6.abstract_classes_second_time.Solution_1">
+    <configuration name="HMW_6.abstract_classes_second_time.Solution_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HMW_6.abstract_classes_second_time.Solution_1" />
+      <module name="hmw_2_git_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HMW_6.abstract_classes_second_time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HMW_6.polymorphism_second_time.Solution_2" />
+      <module name="hmw_2_git_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HMW_6.polymorphism_second_time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HMW_6.polymorphism_second_time.Solution_3" />
+      <module name="hmw_2_git_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HMW_6.polymorphism_second_time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HMW_6.polymorphism_second_time.Solution_4" />
+      <module name="hmw_2_git_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HMW_6.polymorphism_second_time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HMW_6.polymorphism_second_time.Solution_5" />
+      <module name="hmw_2_git_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HMW_6.polymorphism_second_time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HMW_6.abstract_classes_second_time.Solution_1" />
+        <item itemvalue="Application.Solution_5" />
+        <item itemvalue="Application.Solution_4" />
+        <item itemvalue="Application.Solution_3" />
+        <item itemvalue="Application.Solution_2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -204,12 +286,30 @@
       <option name="project" value="LOCAL" />
       <updated>1737636806964</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add HMW_6">
+      <option name="closed" value="true" />
+      <created>1739104791347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739104791347</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="55d0ada6-ae4e-4294-9e85-3d3e7ff5c67a" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="55d0ada6-ae4e-4294-9e85-3d3e7ff5c67a">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -236,6 +336,17 @@
     <MESSAGE value="Add HMW_4" />
     <MESSAGE value="Add HMW_4, with notes" />
     <MESSAGE value="Add HMW_5, with notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HMW_5, with notes" />
+    <MESSAGE value="Add HMW_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HMW_6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

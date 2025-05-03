@@ -1,4 +1,78 @@
 package HMW_5;
 
 public class Cat0 {
+    String name;
+    int age;
+    int weight;
+    private int wins = 0;
+
+
+    public Cat0(String name, int age, int weight) {
+        this.name = name;
+        this.age = age;
+        this.weight = weight;
+    }
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public int getWeight() {
+        return weight;
+    }
+
+    public void setWeight(int weight) {
+        this.weight = weight;
+    }
+
+    public int getWins() {
+        return wins;
+    }
+    
+    public void addWin() {
+        this.wins++;
+    }
+
+    public boolean fight(Cat0 anotherCat) {
+        if (this.weight > anotherCat.weight) {
+            return true;
+        } else if (this.weight == anotherCat.weight) {
+            return this.age < anotherCat.age;
+        } else {
+            return false;
+        }
+    }
+
 }
+
+
+//
+//1. Create class Cat
+//    1.1. Create class Cat
+//    1.2. Cat should have name (String), age (int), weight (int)
+//    1.3. Create getters and setters for each variable
+//2. Implement method fight
+//    2.1. Create method - boolean fight(Cat anotherCat)
+//    2.2. Implement the method with the logic of fighting the cats
+//that depends on weight, age and strength.
+//The method should calculate the result of fighting, did we win(this)
+//and if yes - return true, if no - return false
+//Should calculate next condition:
+//        if cat1.fight(cat2) == true -> cat2.fight(cat1) == false
+//        3. Create 3 object of Cat
+//    3.1. In the method main create 3 object of type Cat, fill them with data
+//4. Create 3 rounds of fight in pairs between the cats.
+//        5. The result of each fight print to the console

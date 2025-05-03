@@ -1,14 +1,16 @@
-package Zaynyattya_6.Urok_6_practice.Urok_6_chess_inheritance;
+package HMW_6.Urok_6_practice.Urok_6_chess_inheritance;
 
-public abstract class ChessItem implements  Drawable, Element {
+public abstract class ChessItem implements Drawable, Element {
     private int x;
     private int y;
     private int value;
     private int worth;
 
-    public int getValue(){
+    public int getValue() {
         return value;
-    };
+    }
+
+    ;
 
     public void setX(int x) {
         if (x < 0 || x > 10) {

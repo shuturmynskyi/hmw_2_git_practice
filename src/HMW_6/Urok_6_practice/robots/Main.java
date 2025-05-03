@@ -1,4 +1,4 @@
-package Zaynyattya_6.Urok_6_practice.robots;
+package HMW_6.Urok_6_practice.robots;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,13 +11,13 @@ public class Main {
         robots.add(new WorkerRobot());
 
         for (int i = 0; i < robots.size(); i++) {
-            if(robots.get(i) instanceof WallBuilder) {
+            if (robots.get(i) instanceof WallBuilder) {
                 WallBuilder builder = (WallBuilder) robots.get(i);
                 builder.bildWall();
             } else {
                 System.out.println("I cannot build the wall" + robots.get(i).getClass().getSimpleName());
             }
-            
+
         }
     }
 }

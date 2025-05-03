@@ -17,7 +17,7 @@ public class MultiplicationTable {
         while (i <= 10) {
             int j = 1;
             while (j <= 10) {
-                System.out.print(i * j + " ");
+                System.out.printf("%4d", i * j); // вирівнює у 4 символи
                 j++;
             }
             System.out.println();

@@ -1,4 +1,4 @@
-package Zaynyattya_6.Urok_6_practice.Urok_6_polymorphism;
+package HMW_6.Urok_6_practice.Urok_6_polymorphism;
 
 public class Animal {
     String name;
@@ -7,7 +7,7 @@ public class Animal {
         this.name = name;
     }
 
-    public void speak(){
+    public void speak() {
         System.out.println("I`m an animal");
     }
 //    public void tellMe(String message) {

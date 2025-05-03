@@ -15,12 +15,17 @@ public class MinOfTwo {
         scanner.close();
     }
 
-    private static void printMinOfTwo(int one, int two) {
-        if (one>two){
-            System.out.println("Min of two is: "+ two);
-        }else {
-            System.out.println("Min of two is: "+ one);
-        }
-    }
+//    private static void printMinOfTwo(int one, int two) {
+//        if (one>two){
+//            System.out.println("Min of two is: "+ two);
+//        }else {
+//            System.out.println("Min of two is: "+ one);
+//        }
+//    }
+private static void printMinOfTwo(int one, int two) {
+    int min = Math.min(one, two);
+    System.out.println(min);
+}
+
 
 }

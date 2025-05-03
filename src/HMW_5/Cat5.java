@@ -8,11 +8,15 @@ public class Cat5 {
         catCount++; // Інкрементуємо лічильник при створенні кожного нового об'єкта
     }
 
+    public static int getCatCount() {
+        return catCount;
+    }
+
     public static void main(String[] args) {
         Cat5 cat1 = new Cat5(); // Перший кіт, catCount стає 1
         Cat5 cat2 = new Cat5(); // Другий кіт, catCount стає 2
 
         // Виводимо поточну кількість котів
-        System.out.println("Cats count is: " + Cat5.catCount); // Має вивести 2
+        System.out.println("Cats count is: " + Cat5.getCatCount()); // Має вивести 2
     }
 }

@@ -1,4 +1,5 @@
 package HMW_4;
+import java.util.Arrays;
 import java.util.Scanner;
 
 
@@ -17,31 +18,38 @@ public class SortOfThree {
         scanner.close();
     }
 
+//    private static void printFromHighestToLowest(int a, int b, int c) {
+//        if (a>b && a>c) {
+//            if (b>c) {
+//                System.out.println("From highest to lowest: " + a + " " + b + " " + c);
+//            }
+//            else {
+//                System.out.println("From highest to lowest: " + a + " " + c + " " + b);
+//            }
+//        }
+//        if (b>a && b>c) {
+//            if (a>c) {
+//                System.out.println("From highest to lowest: " + b + " " + a + " " + c);
+//            }
+//            else {
+//                System.out.println("From highest to lowest: " + b + " " + c + " " + a);
+//            }
+//        }
+//        if (c>a && c>b) {
+//            if (a>b) {
+//            System.out.println("From highest to lowest: " + c + " " + a + " " + b);
+//        }
+//        else {
+//            System.out.println("From highest to lowest: " + c + " " + b + " " + a);
+//        }
+//        }
+//    }
     private static void printFromHighestToLowest(int a, int b, int c) {
-        if (a>b && a>c) {
-            if (b>c) {
-                System.out.println("From highest to lowest: " + a + " " + b + " " + c);
-            }
-            else {
-                System.out.println("From highest to lowest: " + a + " " + c + " " + b);
-            }
-        }
-        if (b>a && b>c) {
-            if (a>c) {
-                System.out.println("From highest to lowest: " + b + " " + a + " " + c);
-            }
-            else {
-                System.out.println("From highest to lowest: " + b + " " + c + " " + a);
-            }
-        }
-        if (c>a && c>b) {
-            if (a>b) {
-            System.out.println("From highest to lowest: " + c + " " + a + " " + b);
-        }
-        else {
-            System.out.println("From highest to lowest: " + c + " " + b + " " + a);
-        }
-        }
-
+        int numbers [] = {a, b, c};
+        Arrays.sort(numbers);
+        System.out.println("From highest to lowest: " + numbers[2] + " " + numbers[1] + " " + numbers[0]);
     }
+
+
+
 }

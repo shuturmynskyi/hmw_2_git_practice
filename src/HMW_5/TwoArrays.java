@@ -11,20 +11,26 @@ public class TwoArrays {
         If the first element contains "Hello", we put in the first element of int Array - 5
     5. Print the int Array to the console
      */
+
     public static void main(String[] args) {
-        String[] arrayString = new String[10];
-        int [] arrayInt = new int[10];
+        String [] array_of_Str = new String[10];
+        int [] array_of_int = new int[10];
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter 10 Strings, please");
-        for (int i = 0; i < arrayString.length; i++) {
-            arrayString[i] = scanner.nextLine();
+        System.out.println("Enter 10 Strings: ");
+        for (int i = 0; i < array_of_Str.length; i++) {
+            array_of_Str[i] = scanner.nextLine();
         }
-        for (int i = 0; i < arrayString.length; i++) {
-            arrayInt[i] = arrayString[i].length(); // Довжина рядка
+        for (int i = 0; i < array_of_Str.length; i++) {
+            array_of_int[i] = array_of_Str[i].length();
         }
-        System.out.println("Lengths of Strings:");
-        for (int i = 0; i < arrayInt.length; i++) {
-            System.out.println(arrayInt[i]); // Виводимо кожне число
+        System.out.println("Lengths of Strings: ");
+        for (int i : array_of_int) {
+            System.out.print(i + " ");
         }
+
+
+
     }
+
+
 }

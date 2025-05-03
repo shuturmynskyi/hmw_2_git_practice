@@ -11,24 +11,50 @@ public class DivideArray {
     5. Print second small array to the console
      */
 
+//    public static void main(String[] args) {
+//        int[] bigArray = new int[20];
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Enter 20 integers:");
+//        for (int i = 0; i < bigArray.length; i++) {
+//            bigArray[i] = scanner.nextInt();
+//        }
+//
+//        int[] firstHalf = new int[10];
+//        int[] secondHalf = new int[10];
+//
+//        for (int i = 0; i < 10; i++) {
+//            firstHalf[i] = bigArray[i];         // First half
+//            secondHalf[i] = bigArray[i + 10];  // Second half
+//        }
+//        System.out.println("Second half of the array:");
+//        for (int num : secondHalf) {
+//            System.out.print(num + " ");
+//        }
+//    }
+
     public static void main(String[] args) {
-        int[] bigArray = new int[20];
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter 20 integers:");
-        for (int i = 0; i < bigArray.length; i++) {
-            bigArray[i] = scanner.nextInt();
+        int [] array = new int [20];
+        Scanner scanner = new Scanner (System.in);
+        System.out.println("Enter 20 integers, please: ");
+        for (int i = 0; i < array.length; i++) {
+            array[i] = scanner.nextInt();
         }
 
-        int[] firstHalf = new int[10];
-        int[] secondHalf = new int[10];
+        int [] array_junior_one = new int [10];
+        int [] array_junior_two = new int [10];
 
         for (int i = 0; i < 10; i++) {
-            firstHalf[i] = bigArray[i];         // First half
-            secondHalf[i] = bigArray[i + 10];  // Second half
+            array_junior_one[i] = array[i];
+            array_junior_two[i] = array[i + 10];
         }
-        System.out.println("Second half of the array:");
-        for (int num : secondHalf) {
-            System.out.print(num + " ");
+        System.out.println("Second half of the array: ");
+        for (int num : array_junior_two) {
+            System.out.println(num + " ");
         }
+
+
     }
+
+
+
 }

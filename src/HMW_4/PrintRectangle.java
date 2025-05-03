@@ -23,12 +23,18 @@ public class PrintRectangle {
         scanner.close();
 
         // implement here
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                System.out.print("8");
+//        for (int i = 0; i < m; i++) {
+//            for (int j = 0; j < n; j++) {
+//                System.out.print("8");
+//            }
+//            System.out.println();
+//        }
+
+        for (int i =0; i < m; i++){
+            for (int l = 0; l < n; l++) {
+                System.out.print(8);
             }
             System.out.println();
         }
-
     }
 }
